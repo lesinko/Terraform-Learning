@@ -5,7 +5,7 @@
  - Comments
  ### sample template
 <BLOCK TYPE> "<BLOCK LABEL>" "<BLOCK LABEL>" {
-  # Block body
+ ### Block body
   <IDENTIFIER> = <EXPRESSION> # Argument
 }
 ### Example
