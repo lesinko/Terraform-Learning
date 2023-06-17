@@ -1,7 +1,8 @@
 ### Infrastructure as Code with Terraform
-
-Terraform Introduction
-Terraform Commands
-Terraform Language Syntax
-Terraform Settings, Providers and Resources
-Terraform Variables and Datasources
+#### Topics covered:
+- Terraform Introduction and Installation
+- Terraform Commands
+- Terraform Language Syntax basics
+- Terraform Settings, Providers and Resources
+- Terraform Variables and Datasources
+- Terraform sample examples
