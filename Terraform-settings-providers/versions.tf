@@ -4,7 +4,7 @@ terraform {
   required_version = "~>1.4"
   required_providers {
     aws = {
-      source = "hashicorp/aws"
+      source  = "hashicorp/aws"
       version = "5.4.0"
     }
   }
@@ -12,6 +12,6 @@ terraform {
 
 #Provider block
 provider "aws" {
-    region = "us-east-1"
-  
+  region = var.aws_region
+
 }
