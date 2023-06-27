@@ -4,7 +4,7 @@ module "vpc" {
 }
 
 # vpc basic details
-name = "dev-vpc"
+name = "var.vpc_name"
 cidr = "10.0.0.0/16"
 
 azs             = ["us-east-1a", "us-east-1b"]
