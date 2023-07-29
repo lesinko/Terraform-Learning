@@ -1,3 +1,4 @@
 terraform.tfvars
 generic-variables.tf
 .terraform/*
+ec2instance.auto.tfvars
